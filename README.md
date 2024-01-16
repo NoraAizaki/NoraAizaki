@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @NoraAizaki
-- 👀 I’m interested in studying programing 
-- 🌱 I’m currently learning everythink i can
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👋 Cześć jestem @NoraAizaki!
+- Jestem Technikiem programistą ze zdanym egzaminem INF.03 .
+- Pragnę nauczyć się czegoś więcej niż do teraz . Programowanie jest ciekawe i przy okazji jest tez coraz bardziej przydatne w tych czasach bo wszystko rozwija się wokoło technologii.
+- 
 
-<!---
-NoraAizaki/NoraAizaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
